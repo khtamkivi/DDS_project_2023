@@ -1,5 +1,8 @@
 # World Happiness Report Analysis
 
+![Uploading DALL·E 2024-01-09 20.54.22 - An artistic representation of a world map with data science and happiness themes, in landscape format. The world map is depicted with various countrie.png…]()
+
+
 ### Authors:
 
 **Group 13:** Thalis Goldschmidt, Mara Hannappel & Karl Hendrik Tamkivi
@@ -24,7 +27,7 @@ Our notebooks are enhanced with interactive visualizations, offering an engaging
 
 For an enhanced experience, we've set up a Binder environment. This allows you to interact with a results dashboard, play around with the data, and gain hands-on insights without the need for local setup.
 
-LINK: (https://mybinder.org/v2/gh/khtamkivi/DDS_project_2023/54d20bf68373dcf2bda1bbc1402919a4eac0070c?urlpath=lab%2Ftree%2Finteractive_notebook.ipynb)
+LINK: https://mybinder.org/v2/gh/khtamkivi/DDS_project_2023/54d20bf68373dcf2bda1bbc1402919a4eac0070c?urlpath=lab%2Ftree%2Finteractive_notebook.ipynb
 
 ## Getting Started
 
