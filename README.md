@@ -1,5 +1,7 @@
 # World Happiness Report Analysis
 
+![World Happiness Data Visualization](https://github.com/khtamkivi/DDS_project_2023/blob/main/cover_image.png)
+
 ### Authors:
 
 **Group 13:** Thalis Goldschmidt, Mara Hannappel & Karl Hendrik Tamkivi
