@@ -26,7 +26,7 @@ Our notebooks are enhanced with interactive visualizations, offering an engaging
 
 For an enhanced experience, we've set up a Binder environment. This allows you to interact with a results dashboard, play around with the data, and gain hands-on insights without the need for local setup.
 
-**LINK:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khtamkivi/DDS_project_2023/interactive_dashboard)
+**LINK:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khtamkivi/DDS_project_2023/HEAD?labpath=interactive_notebook.ipynb)
 
 ## Getting Started
 
